@@ -1,4 +1,4 @@
-Rest(0.142, bpm)
+rest(0.142, bpm)
 keypress("Q", x, bpm)
 rest(0.65, bpm)
 keypress("Q", x, bpm)
